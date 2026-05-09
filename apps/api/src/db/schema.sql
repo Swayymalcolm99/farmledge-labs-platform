@@ -1,0 +1,10 @@
+-- farmledge database schema
+-- Tables to be defined:
+--   users
+--   farmers
+--   warehouses
+--   inventory_tokens
+--   loan_requests
+--   loans
+--   transactions
+--   audit_log
